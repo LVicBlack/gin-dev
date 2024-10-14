@@ -1,4 +1,4 @@
-module gin-study
+module gin-dev
 
 go 1.23.2
 
